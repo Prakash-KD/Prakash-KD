@@ -1,8 +1,8 @@
 # Hi, I'm Prakash 👋
 
-## Senior Consultant QA | Automation Engineer
+## Senior QA Automation Engineer | QA Consultant
 
-🚀 Senior QA Automation Engineer with 8+ years of experience delivering quality solutions across Web, Mobile, Enterprise, IoT, AI/LLM, and Data-Driven Applications.
+🚀 Senior QA Automation Engineer | Playwright | Selenium | API Testing | AI/LLM Testing | UiPath | JMeter | SQL | 8+ Years
 
 Specialized in Playwright, Selenium WebDriver, API Testing, UiPath RPA, Performance Testing using JMeter, ETL/Data Warehouse Validation, and Agile Quality Engineering.
 
@@ -75,6 +75,13 @@ Specialized in Playwright, Selenium WebDriver, API Testing, UiPath RPA, Performa
 - IssueTrak
 - GitHub
 - CI/CD Pipelines
+
+## 🏆 Certifications
+
+- Automation Testing - Core Java and Selenium
+- Professional Software Testing Program
+- SQL Testing
+- Agile Methodologies
 
 ## 📈 Key Achievements
 
