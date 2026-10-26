@@ -1,6 +1,6 @@
 # Hi, I'm Prakash 👋
 
-## Senior QA Automation Engineer | QA Consultant
+## Senior Consultant QA | Automation Engineer
 
 🚀 Senior QA Automation Engineer with 8+ years of experience delivering quality solutions across Web, Mobile, Enterprise, IoT, AI/LLM, and Data-Driven Applications.
 
@@ -16,6 +16,16 @@ Specialized in Playwright, Selenium WebDriver, API Testing, UiPath RPA, Performa
 - Performance Testing using JMeter
 - SQL, ETL & Data Warehouse Testing
 - CI/CD Quality Engineering
+
+## 💼 Current Role
+
+**Senior Consultant QA | JK Tech**
+
+- Leading test strategy and quality assurance initiatives
+- Driving Playwright and Selenium automation activities
+- Performing API, AI/LLM, Performance, and Database Testing
+- Collaborating with Product Owners, Developers, and Business Stakeholders
+- Supporting Agile delivery and release readiness
 
 ## 🚀 Technical Skills
 
@@ -113,20 +123,20 @@ Specialized in Playwright, Selenium WebDriver, API Testing, UiPath RPA, Performa
 ### 🎭 Playwright TypeScript Framework
 Scalable automation framework using Playwright and TypeScript.
 
-### 🤖 Selenium Automation Framework
-Web automation framework using Selenium WebDriver and TestNG.
-
-### 🔌 API Testing Collection
-REST API testing examples using Postman and Swagger.
-
-### ⚡ JMeter Performance Testing
-Performance, Load, and Stress testing examples.
-
-### 🤖 UiPath RPA Testing
-Sample RPA workflow validation and automation testing.
+### 🔌 API Testing using Postman
+REST API testing examples using Postman, Swagger, and API validation.
 
 ### 🧠 AI & LLM Testing
-AI application test scenarios, validation approaches, and test strategies.
+AI application testing, prompt validation, response validation, and LLM testing strategies.
+
+### ⚡ JMeter Performance Testing
+Load, stress, endurance, and performance testing examples using Apache JMeter.
+
+### 🤖 UiPath RPA Testing
+RPA workflow validation, automation process testing, and reusable RPA testing approaches.
+
+### 🖥️ Selenium Automation Framework
+Web automation framework using Selenium WebDriver, Java, and TestNG.
 
 ## 📫 Connect With Me
 
