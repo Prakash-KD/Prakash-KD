@@ -2,7 +2,9 @@
 
 ## Senior QA Automation Engineer | QA Consultant
 
-🚀 8+ years of experience in Automation Testing, AI/LLM Testing, Performance Testing, RPA Testing, API Testing, Database Testing, and Agile Quality Engineering.
+🚀 Senior QA Automation Engineer with 8+ years of experience delivering quality solutions across Web, Mobile, Enterprise, IoT, AI/LLM, and Data-Driven Applications.
+
+Specialized in Playwright, Selenium WebDriver, API Testing, UiPath RPA, Performance Testing using JMeter, ETL/Data Warehouse Validation, and Agile Quality Engineering.
 
 ## Specializations
 
