@@ -1,8 +1,19 @@
-Hi, I'm Prakash 👋
+# Hi, I'm Prakash 👋
 
 ## Senior QA Automation Engineer | QA Consultant
 
-Quality Assurance professional with 8+ years of experience in Automation Testing, Manual Testing, API Testing, Database Testing, Performance Testing, RPA Testing, AI/LLM Testing, and Agile Delivery.
+🚀 8+ years of experience in Automation Testing, AI/LLM Testing, Performance Testing, RPA Testing, API Testing, Database Testing, and Agile Quality Engineering.
+
+## Specializations
+
+- Playwright with TypeScript
+- Selenium WebDriver
+- REST API Testing
+- AI / LLM Testing
+- UiPath RPA Testing
+- Performance Testing using JMeter
+- SQL, ETL & Data Warehouse Testing
+- CI/CD Quality Engineering
 
 ## 🚀 Technical Skills
 
